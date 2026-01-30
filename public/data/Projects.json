@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "title": "Auth Service",
+    "description": "Built a robust authentication system with refresh token rotation, Redis-backed session tracking, OTP email verification, password recovery, rate limiting, and secure logout",
+    "techStack": [
+      "Spring Boot",
+      "Redis",
+      "Spring Security",
+      "Next.js",
+      "Postgres"
+    ],
+    "projectImage": "/images/auth.webp",
+    "projectLinks": {
+      "github": "https://github.com/RiteekBhardwaj/Auth-Frontend",
+      "preview": "https://next-auth-frontend.netlify.app/"
+    },
+    "year": "2026",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Portfolio",
+    "description": "A modern, responsive developer portfolio built with Next.js and shadcn/ui, focused on performance, clean design, and smooth user experience.",
+    "techStack": ["Next.js", "shadcn/ui"],
+    "projectImage": "/images/portfolio.webp",
+    "projectLinks": {
+      "github": "www.google.com",
+      "preview": "www.google.com"
+    },
+    "year": "2025",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Estate Portfolio",
+    "description": "My first full-stack project: a real estate agent portfolio built with React.js and Spring Boot, including a backend-integrated contact form.",
+    "techStack": ["React.js", "Spring Boot", "MySQL"],
+    "projectImage": "/images/realestateagent.webp",
+    "projectLinks": {
+      "github": "https://github.com/RiteekBhardwaj/Portfolio-for-Real-estate-agent#",
+      "preview": "https://riteekbhardwaj.github.io/Portfolio-for-Real-estate-agent/"
+    },
+    "year": "2024",
+    "featured": true
+  }
+]

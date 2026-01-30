@@ -1,0 +1,15 @@
+{
+  "profileImage": "/images/profile1.webp",
+  "firstName": "Riteek",
+  "lastName": "Bhardwaj",
+  "role": "Full Stack Developer",
+  "heroIntro": "I build tools that makes everyday life more productive",
+  "socialLinks": {
+    "linkedin": "www.google.com",
+    "figma": "www.google.com",
+    "github": "www.google.com",
+    "telegram": "www.google.com",
+    "instagram": "www.google.com"
+  },
+  "mail":"ritek.kumar@outlook.in"
+}
