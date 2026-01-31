@@ -1,45 +1,52 @@
-# 🔐 JWT-based Authentication Service
+# 🚀 Developer Portfolio
 
-A production-ready **JWT authentication system** built with **Spring Boot (Backend)** and **Next.js (Frontend)**, featuring secure session handling, refresh token rotation, Redis-backed tracking, and OTP-based email verification.
+A high-performance, production-ready **developer portfolio** built with **Next.js App Router**, **Tailwind CSS v4**, and **shadcn/ui**.  
+Designed with a strong focus on **Core Web Vitals**, scalability, and modern UI practices.
+
+🔗 **Live Demo:** https://your-project.vercel.app
 
 ---
 
 ## ✨ Features
 
-### 🔑 Authentication & Tokens
-- JWT **Access & Refresh token** generation
-- **Refresh token rotation** (prevents token reuse)
-- Immediate **token revocation** support
-- JTI-based session validation
+### ⚡ Performance & Rendering
+- **Static Site Generation (SSG)** for ultra-fast loads
+- Server Components by default (minimal JS shipped)
+- Optimized **First Contentful Paint (FCP)** & **LCP**
+- Zero layout shift (**CLS = 0**)
 
-### 📧 Email & Security
-- OTP-based **account recovery**
-- Email-based **rate limiting**
-- Secure password hashing
+### 🎨 UI & UX
+- Modern, clean design
+- Fully responsive (mobile-first)
+- Accessible components via Radix UI
 
-### 🛡️ Security
-- HTTPS enabled
-- Stateless authentication
-- Spring Security filters
+### 🌐 SEO & Delivery
+- SEO-friendly HTML output
+- Brotli/Gzip compression (Vercel)
+
+---
+
+## 🧠 Performance Highlights
+
+- **FCP:** ~1.4s  
+- **LCP:** < 1.5s (production)
+- **CLS:** 0
+- **Lighthouse Score:** 90–100
+
+Optimization techniques:
+- Static prerendering
+- `next/image` optimization
+- Font optimization via `next/font`
 
 ---
 
 ## 🧩 Tech Stack
 
-### Backend
-- **Java 21**
-- **Spring Boot**
-- Spring Security
-- JWT (Access + Refresh Tokens)
-- Redis
-- PostgreSQL
-- SendGrid
-
 ### Frontend
 - **Next.js (App Router)**
-- TypeScript
-- Tailwind CSS
-- ShadCN UI
-- Fetch API
+- **TypeScript**
+- **Tailwind CSS v4**
+- **shadcn/ui**
+- Radix UI
 
 ---
