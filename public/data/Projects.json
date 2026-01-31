@@ -25,7 +25,8 @@
     "techStack": ["Next.js", "shadcn/ui"],
     "projectImage": "/images/portfolio.webp",
     "projectLinks": {
-      "github": "https://github.com/RiteekBhardwaj/Portfolio"
+      "github": "https://github.com/RiteekBhardwaj/Portfolio",
+      "figma": "https://www.figma.com/site/yxmC0TIj9SsLXJOjdB5Y0Z/Portfolio?node-id=0-1&t=Fmn2UXbIYydA8ejL-1"
     },
     "year": "2025",
     "featured": true

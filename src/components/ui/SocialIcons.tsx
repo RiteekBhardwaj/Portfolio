@@ -21,13 +21,13 @@ export const SocialIcons = ({ links }: Links) => {
           className="text-primary-foreground hover:text-foreground transition duration-500 cursor-pointer"
         />
       </a>
-      <a href={links.figma} target="_blank" rel="noopener noreferrer">
+      {/* <a href={links.figma} target="_blank" rel="noopener noreferrer">
         <IconBrandFigma
           stroke={1.5}
           size={32}
           className="text-primary-foreground hover:text-foreground transition duration-500 cursor-pointer"
         />
-      </a>
+      </a> */}
       <a href={links.github} target="_blank" rel="noopener noreferrer">
         <IconBrandGithub
           stroke={1.5}
