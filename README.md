@@ -3,7 +3,7 @@
 A high-performance, production-ready **developer portfolio** built with **Next.js App Router**, **Tailwind CSS v4**, and **shadcn/ui**.  
 Designed with a strong focus on **Core Web Vitals**, scalability, and modern UI practices.
 
-🔗 **Live Demo:** https://your-project.vercel.app
+🔗 **Live Demo:** https://portfolio-gamma-nine-afky8k9tqd.vercel.app/
 
 ---
 
