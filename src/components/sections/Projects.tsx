@@ -13,7 +13,7 @@ const featured_projects = (projectData as ProjectDataType[]).filter(
 
 export const Projects = () => {
   return (
-    <div>
+    <div id="projects">
       <div className="flex flex-col gap-8">
         <Reveal delay={120}>
           <div className="text-center">

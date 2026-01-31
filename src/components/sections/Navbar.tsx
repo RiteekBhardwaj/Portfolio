@@ -32,10 +32,9 @@ export const Navbar = () => {
           { label: "Home", href: "#home" },
           { label: "About", href: "#about" },
           { label: "Projects", href: "#projects" },
-          { label: "Services", href: "#services" },
-          { label: "Resume", href: "#resume" },
+          { label: "Resume", href: "https://drive.google.com/drive/folders/1vAk_uuhLayxsX4povL8c7zoTlnPSed4M?usp=drive_link" },
         ].map((item) => (
-          <li key={item.href}>
+          <li key={item.label}>
             <Link
               href={item.href}
               onClick={() => setOpen(false)}

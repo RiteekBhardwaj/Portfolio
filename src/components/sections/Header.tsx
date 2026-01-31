@@ -65,7 +65,11 @@ export const Header = () => {
           <SocialIcons links={data.socialLinks} />
 
           {/* contact btn */}
-          <Button>Lets&apos;s Talk</Button>
+          <Button asChild>
+            <a href={`mailto:${data.mail}`} >
+              Lets&apos;s Talk
+            </a>
+          </Button>
         </section>
       </Reveal>
       <Reveal delay={120}>

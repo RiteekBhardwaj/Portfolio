@@ -25,15 +25,14 @@
     "techStack": ["Next.js", "shadcn/ui"],
     "projectImage": "/images/portfolio.webp",
     "projectLinks": {
-      "github": "www.google.com",
-      "preview": "www.google.com"
+      "github": "https://github.com/RiteekBhardwaj/Portfolio"
     },
     "year": "2025",
     "featured": true
   },
   {
     "id": "3",
-    "title": "Estate Portfolio",
+    "title": "Real Estate Portfolio",
     "description": "My first full-stack project: a real estate agent portfolio built with React.js and Spring Boot, including a backend-integrated contact form.",
     "techStack": ["React.js", "Spring Boot", "MySQL"],
     "projectImage": "/images/realestateagent.webp",
